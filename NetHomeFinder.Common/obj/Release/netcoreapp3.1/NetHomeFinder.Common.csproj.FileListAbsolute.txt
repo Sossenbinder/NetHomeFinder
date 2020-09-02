@@ -1,0 +1,9 @@
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common\bin\Release\netcoreapp3.1\NetHomeFinder.Common.deps.json
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common\bin\Release\netcoreapp3.1\NetHomeFinder.Common.dll
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common\bin\Release\netcoreapp3.1\NetHomeFinder.Common.pdb
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common\obj\Release\netcoreapp3.1\NetHomeFinder.Common.csprojAssemblyReference.cache
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common\obj\Release\netcoreapp3.1\NetHomeFinder.Common.AssemblyInfoInputs.cache
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common\obj\Release\netcoreapp3.1\NetHomeFinder.Common.AssemblyInfo.cs
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common\obj\Release\netcoreapp3.1\NetHomeFinder.Common.csproj.CoreCompileInputs.cache
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common\obj\Release\netcoreapp3.1\NetHomeFinder.Common.dll
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common\obj\Release\netcoreapp3.1\NetHomeFinder.Common.pdb

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NetHomeFinder": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

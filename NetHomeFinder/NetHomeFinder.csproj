@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Autofac" Version="5.2.0" />
+        <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.7" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="3.1.7" />
+        <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\NetHomeFinder.Common\NetHomeFinder.Common.csproj" />
+      <ProjectReference Include="..\NetHomeFinder.Storage\NetHomeFinder.Storage.csproj" />
+      <ProjectReference Include="..\NetHomeFinder.Telegram\NetHomeFinder.Telegram.csproj" />
+      <ProjectReference Include="..\NetHomeFinder.WebScraper\NetHomeFinder.WebScraper.csproj" />
+    </ItemGroup>
+</Project>

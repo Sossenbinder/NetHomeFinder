@@ -1,0 +1,9 @@
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common.Definitions\bin\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.deps.json
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common.Definitions\bin\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.dll
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common.Definitions\bin\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.pdb
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common.Definitions\obj\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.AssemblyInfoInputs.cache
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common.Definitions\obj\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.AssemblyInfo.cs
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common.Definitions\obj\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.csproj.CoreCompileInputs.cache
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common.Definitions\obj\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.dll
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common.Definitions\obj\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.pdb
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Common.Definitions\obj\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.csprojAssemblyReference.cache

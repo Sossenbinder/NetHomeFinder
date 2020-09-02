@@ -1,0 +1,14 @@
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\bin\Debug\netcoreapp3.1\NetHomeFinder.Telegram.deps.json
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\bin\Debug\netcoreapp3.1\NetHomeFinder.Telegram.dll
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\bin\Debug\netcoreapp3.1\NetHomeFinder.Telegram.pdb
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\bin\Debug\netcoreapp3.1\NetHomeFinder.Common.dll
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\bin\Debug\netcoreapp3.1\NetHomeFinder.Common.pdb
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\obj\Debug\netcoreapp3.1\NetHomeFinder.Telegram.csprojAssemblyReference.cache
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\obj\Debug\netcoreapp3.1\NetHomeFinder.Telegram.AssemblyInfoInputs.cache
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\obj\Debug\netcoreapp3.1\NetHomeFinder.Telegram.AssemblyInfo.cs
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\obj\Debug\netcoreapp3.1\NetHomeFinder.Telegram.csproj.CoreCompileInputs.cache
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\obj\Debug\netcoreapp3.1\NetHomeFinder.Telegram.csproj.CopyComplete
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\obj\Debug\netcoreapp3.1\NetHomeFinder.Telegram.dll
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\obj\Debug\netcoreapp3.1\NetHomeFinder.Telegram.pdb
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\bin\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.dll
+P:\Coding\Projects\NetHomeFinder\NetHomeFinder.Telegram\bin\Debug\netcoreapp3.1\NetHomeFinder.Common.Definitions.pdb

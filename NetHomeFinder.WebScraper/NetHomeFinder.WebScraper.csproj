@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.2.0" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.24" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetHomeFinder.Common.Definitions\NetHomeFinder.Common.Definitions.csproj" />
+    <ProjectReference Include="..\NetHomeFinder.Common\NetHomeFinder.Common.csproj" />
+    <ProjectReference Include="..\NetHomeFinder.Storage\NetHomeFinder.Storage.csproj" />
+  </ItemGroup>
+
+</Project>
