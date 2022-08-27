@@ -43,6 +43,11 @@ namespace NetHomeFinder
 
 		private static void RegisterServices(ContainerBuilder containerBuilder)
 		{
+			Environment.SetEnvironmentVariable("TelegramApiToken", "1027531170:AAEk3yzzjVaghnkL_G7MF4eHsckO_KhJJ-s");
+			Environment.SetEnvironmentVariable("TelegramChatId", "-1001157116554");
+			Environment.SetEnvironmentVariable("SecondsBetweenScrapes", "10800");
+			Environment.SetEnvironmentVariable("ImmoscoutUrl", "https://www.immobilienscout24.de/Suche/shape/wohnung-mieten?shape=X3lnaEh5dHZ3QHJ9Q2V1Q3p4QnliSHJxRGFpR3BYYXlMY2VCb3BBcW1CZ3NEX21Gc2xDc2hBcW5CY2JCfmpGc1VqcFd3X0FidUdsdEBsckd8YkF6dEE7aX5uaEh1dGF4QGRCdUxlQmtP&price=-700.0&sorting=2&enteredFrom=result_list");
+
 			var configuration = new ConfigurationBuilder()
 				.AddEnvironmentVariables()
 				.Build();
